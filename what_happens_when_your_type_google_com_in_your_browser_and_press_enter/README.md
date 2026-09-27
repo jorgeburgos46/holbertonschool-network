@@ -7,3 +7,4 @@ Blog post explaining what happens when you type https://www.google.com in your b
 | Task | File | Description |
 | ---- | ---- | ----------- |
 | 0 | [0-blog_post](0-blog_post) | Link to the published blog post |
+| 1 | [1-what_happen_when_diagram](1-what_happen_when_diagram) | Link to the request-flow diagram image |

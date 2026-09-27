@@ -26,3 +26,4 @@ Networking basics projects from Holberton School's Ubuntu 22.04 curriculum: OSI 
 | Task | File | Description |
 | ---- | ---- | ----------- |
 | 0 | [0-blog_post](what_happens_when_your_type_google_com_in_your_browser_and_press_enter/0-blog_post) | Link to the published blog post |
+| 1 | [1-what_happen_when_diagram](what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram) | Link to the request-flow diagram image |
