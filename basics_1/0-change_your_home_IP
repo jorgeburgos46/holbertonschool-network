@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Changes localhost's IP to 127.0.0.2 and facebook.com's IP to 8.8.8.8 in /etc/hosts
+sed -i 's/^127\.0\.0\.1\([[:space:]]\+\)localhost/127.0.0.2\1localhost/' /etc/hosts
+echo -e "8.8.8.8\tfacebook.com" >> /etc/hosts
