@@ -7,3 +7,4 @@ Network basics: the OSI model.
 | Task | File | Description |
 | ---- | ---- | ----------- |
 | 0 | [0-OSI_model](0-OSI_model) | OSI model concepts |
+| 1 | [1-types_of_network](1-types_of_network) | Types of network: LAN, WAN, Internet |
