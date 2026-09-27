@@ -8,3 +8,4 @@ Network basics: localhost, 0.0.0.0, and /etc/hosts.
 | ---- | ---- | ----------- |
 | 0 | [0-change_your_home_IP](0-change_your_home_IP) | Bash script changing localhost and facebook.com resolution via /etc/hosts |
 | 1 | [1-show_attached_IPs](1-show_attached_IPs) | Bash script displaying all active IPv4 addresses |
+| 2 | [2-port_listening_on_localhost](2-port_listening_on_localhost) | Bash script listening on port 98 on localhost |

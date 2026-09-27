@@ -19,3 +19,4 @@ Networking basics projects from Holberton School's Ubuntu 22.04 curriculum: OSI 
 | ---- | ---- | ----------- |
 | 0 | [0-change_your_home_IP](basics_1/0-change_your_home_IP) | Bash script changing localhost and facebook.com resolution via /etc/hosts |
 | 1 | [1-show_attached_IPs](basics_1/1-show_attached_IPs) | Bash script displaying all active IPv4 addresses |
+| 2 | [2-port_listening_on_localhost](basics_1/2-port_listening_on_localhost) | Bash script listening on port 98 on localhost |
