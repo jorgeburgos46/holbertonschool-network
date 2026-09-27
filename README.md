@@ -8,3 +8,4 @@ Networking basics projects from Holberton School's Ubuntu 22.04 curriculum: OSI 
 | ---- | ---- | ----------- |
 | 0 | [0-OSI_model](basics_0/0-OSI_model) | OSI model concepts |
 | 1 | [1-types_of_network](basics_0/1-types_of_network) | Types of network: LAN, WAN, Internet |
+| 2 | [2-MAC_and_IP_address](basics_0/2-MAC_and_IP_address) | MAC and IP address concepts |
