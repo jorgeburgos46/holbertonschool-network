@@ -10,3 +10,4 @@ Networking basics projects from Holberton School's Ubuntu 22.04 curriculum: OSI 
 | 1 | [1-types_of_network](basics_0/1-types_of_network) | Types of network: LAN, WAN, Internet |
 | 2 | [2-MAC_and_IP_address](basics_0/2-MAC_and_IP_address) | MAC and IP address concepts |
 | 3 | [3-UDP_and_TCP](basics_0/3-UDP_and_TCP) | UDP and TCP comparison |
+| 4 | [4-TCP_and_UDP_ports](basics_0/4-TCP_and_UDP_ports) | Bash script displaying listening ports with PID/program |
